@@ -141,9 +141,7 @@ public class EmployeeController {
 		return "show-all-employee";
 	}
 	
-//	demo for git --- this line is added on day 2
-	
-	// commit 3  day 3
+  
 
 	
 	
